@@ -1,0 +1,83 @@
+{
+  "Ads": [
+    {
+      "MODE_NO_ADS": true,
+      "ADS_ON_EXIT_DIALOG": true,
+      "INTERVAL_INTERS_MINUTES": 1,
+      "MAX_INTERSTITIAL_COUNT": 3,
+      "CODE_INTERSTTIAL_ADMOB": "ca-app-pub-3940256099942544/1033173712",
+      "CODE_BANNER_ADMOB": "ca-app-pub-3940256099942544/6300978111",
+      "ON_OFF_BANNER_DIALOG_EXIT": "1",
+      "REDIRECT_TRAFFIC": false,
+      "LINK_REDIRECT": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
+      "RANDOM_LIST": "2",
+      "SHARE_TXT": "This Apps is Awesome... You need to try⭐⭐⭐⭐⭐",
+      "EXIT_POPUP_DIALOG": "Rate Us 5 Stars⭐⭐⭐⭐⭐"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "spiderman",
+      "wallpaper_url": "offlineimages/spiderman (1).jpeg"
+    }
+  ],
+  "Wallpaper": 
+  
+  [
+    {  "id": 1,  "name_category": "spiderman",  "wallpaper_name": "spiderman (1).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (1).jpeg"},
+    {  "id": 2,  "name_category": "spiderman",  "wallpaper_name": "spiderman (1).png",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (1).png"},
+    {  "id": 3,  "name_category": "spiderman",  "wallpaper_name": "spiderman (10).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (10).jpeg"},
+    {  "id": 4,  "name_category": "spiderman",  "wallpaper_name": "spiderman (11).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (11).jpeg"},
+    {  "id": 5,  "name_category": "spiderman",  "wallpaper_name": "spiderman (12).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (12).jpeg"},
+    {  "id": 6,  "name_category": "spiderman",  "wallpaper_name": "spiderman (13).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (13).jpeg"},
+    {  "id": 7,  "name_category": "spiderman",  "wallpaper_name": "spiderman (14).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (14).jpeg"},
+    {  "id": 8,  "name_category": "spiderman",  "wallpaper_name": "spiderman (15).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (15).jpeg"},
+    {  "id": 9,  "name_category": "spiderman",  "wallpaper_name": "spiderman (16).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (16).jpeg"},
+    {  "id": 10,  "name_category": "spiderman",  "wallpaper_name": "spiderman (17).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (17).jpeg"},
+    {  "id": 11,  "name_category": "spiderman",  "wallpaper_name": "spiderman (18).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (18).jpeg"},
+    {  "id": 12,  "name_category": "spiderman",  "wallpaper_name": "spiderman (19).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (19).jpeg"},
+    {  "id": 13,  "name_category": "spiderman",  "wallpaper_name": "spiderman (2).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (2).jpeg"},
+    {  "id": 14,  "name_category": "spiderman",  "wallpaper_name": "spiderman (2).png",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (2).png"},
+    {  "id": 15,  "name_category": "spiderman",  "wallpaper_name": "spiderman (20).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (20).jpeg"},
+    {  "id": 16,  "name_category": "spiderman",  "wallpaper_name": "spiderman (21).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (21).jpeg"},
+    {  "id": 17,  "name_category": "spiderman",  "wallpaper_name": "spiderman (22).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (22).jpeg"},
+    {  "id": 18,  "name_category": "spiderman",  "wallpaper_name": "spiderman (23).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (23).jpeg"},
+    {  "id": 19,  "name_category": "spiderman",  "wallpaper_name": "spiderman (24).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (24).jpeg"},
+    {  "id": 20,  "name_category": "spiderman",  "wallpaper_name": "spiderman (25).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (25).jpeg"},
+    {  "id": 21,  "name_category": "spiderman",  "wallpaper_name": "spiderman (26).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (26).jpeg"},
+    {  "id": 22,  "name_category": "spiderman",  "wallpaper_name": "spiderman (27).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (27).jpeg"},
+    {  "id": 23,  "name_category": "spiderman",  "wallpaper_name": "spiderman (28).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (28).jpeg"},
+    {  "id": 24,  "name_category": "spiderman",  "wallpaper_name": "spiderman (29).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (29).jpeg"},
+    {  "id": 25,  "name_category": "spiderman",  "wallpaper_name": "spiderman (3).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (3).jpeg"},
+    {  "id": 26,  "name_category": "spiderman",  "wallpaper_name": "spiderman (30).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (30).jpeg"},
+    {  "id": 27,  "name_category": "spiderman",  "wallpaper_name": "spiderman (31).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (31).jpeg"},
+    {  "id": 28,  "name_category": "spiderman",  "wallpaper_name": "spiderman (32).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (32).jpeg"},
+    {  "id": 29,  "name_category": "spiderman",  "wallpaper_name": "spiderman (33).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (33).jpeg"},
+    {  "id": 30,  "name_category": "spiderman",  "wallpaper_name": "spiderman (34).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (34).jpeg"},
+    {  "id": 31,  "name_category": "spiderman",  "wallpaper_name": "spiderman (35).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (35).jpeg"},
+    {  "id": 32,  "name_category": "spiderman",  "wallpaper_name": "spiderman (36).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (36).jpeg"},
+    {  "id": 33,  "name_category": "spiderman",  "wallpaper_name": "spiderman (37).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (37).jpeg"},
+    {  "id": 34,  "name_category": "spiderman",  "wallpaper_name": "spiderman (38).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (38).jpeg"},
+    {  "id": 35,  "name_category": "spiderman",  "wallpaper_name": "spiderman (39).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (39).jpeg"},
+    {  "id": 36,  "name_category": "spiderman",  "wallpaper_name": "spiderman (4).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (4).jpeg"},
+    {  "id": 37,  "name_category": "spiderman",  "wallpaper_name": "spiderman (40).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (40).jpeg"},
+    {  "id": 38,  "name_category": "spiderman",  "wallpaper_name": "spiderman (41).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (41).jpeg"},
+    {  "id": 39,  "name_category": "spiderman",  "wallpaper_name": "spiderman (42).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (42).jpeg"},
+    {  "id": 40,  "name_category": "spiderman",  "wallpaper_name": "spiderman (43).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (43).jpeg"},
+    {  "id": 41,  "name_category": "spiderman",  "wallpaper_name": "spiderman (44).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (44).jpeg"},
+    {  "id": 42,  "name_category": "spiderman",  "wallpaper_name": "spiderman (45).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (45).jpeg"},
+    {  "id": 43,  "name_category": "spiderman",  "wallpaper_name": "spiderman (46).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (46).jpeg"},
+    {  "id": 44,  "name_category": "spiderman",  "wallpaper_name": "spiderman (47).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (47).jpeg"},
+    {  "id": 45,  "name_category": "spiderman",  "wallpaper_name": "spiderman (48).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (48).jpeg"},
+    {  "id": 46,  "name_category": "spiderman",  "wallpaper_name": "spiderman (49).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (49).jpeg"},
+    {  "id": 47,  "name_category": "spiderman",  "wallpaper_name": "spiderman (5).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (5).jpeg"},
+    {  "id": 48,  "name_category": "spiderman",  "wallpaper_name": "spiderman (50).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (50).jpeg"},
+    {  "id": 49,  "name_category": "spiderman",  "wallpaper_name": "spiderman (6).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (6).jpeg"},
+    {  "id": 50,  "name_category": "spiderman",  "wallpaper_name": "spiderman (7).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (7).jpeg"},
+    {  "id": 51,  "name_category": "spiderman",  "wallpaper_name": "spiderman (8).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (8).jpeg"},
+    {  "id": 52,  "name_category": "spiderman",  "wallpaper_name": "spiderman (9).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (9).jpeg"}
+  ]
+
+
+}
