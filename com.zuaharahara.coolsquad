@@ -21,27 +21,24 @@
       "name_category": "spiderman",
       "wallpaper_url": "offlineimages/spiderman (1).jpeg"
     },
-{
+	{
       "name_category": "deadpool",
-      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRULykGU-QekTh0WZHlqp_wocyFpg5uynGWXT50WqblLacKAWp9quxlKH1cLP5C-lBiy1Vay3iRol4moXpM4xz_LT7q92wm5VgrUDn__0IYCRl07xP5TvrS6smcr_whq1DRA5FlhYka-5pTh1OE5ljFLHQ6Qmjf1rQNr89XQn1mLyM1Xo2JepaEfKWgg/s1600/deadpool%20%20%2828%29.jpeg"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51tW5rJ_FFgo9ZTukqFJBMmqqx6qveYn5cpcYlPZR-d_V5FD6L-0mZAsImkT8ViXt4zOqlqxYL6qv6N7YbGk5_o8E9Cwap-Mj1d57cGF_LgtUXIhmn1_F4mJ2TuQcb9UO2AAbX1Zies-BPISJyyXjbm1R05oR5hfPHYFf3k7mSpQbQPAnLOjNg25gHqI/s1600/deadpool%20%20%2847%29.jpeg"
     },
-
-{
+	{
       "name_category": "iron man",
-      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjw-4wfTmpb3UNQpHYGKCv4lzXUipLxvf-kos3YOUvih46CwxsWZpT2HZfXKebfP1l8bUAe4Tknb6lZ5-k4Va_u-405938tR5qZ4F3kfw4c42A2UUDh17LMmffqlFl87NRw15MUhgeog59XRvzPxveHlhv7ldf3nkBjPO9WaQscnFZcaMrfRM_KcxkM3g/s1600/iron%20man%20%20%282%29.png"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-sVZah4xKmtFRABNhLsVT-rDlzkyXOi3C1zgkjORl_vppsF_lFaIY-zINLHIUO5GgVACPHs1JE53CkcoRMuK4NGO93U7kbwoqXBnAPWep2reexq3UqEi3l-ceKTPSG23Ai65FUkYPwKKdTr8Bi_AW8KnSQIvQXVGvoQYVKCerS-NGLva7UvNDSTFQ2Z0/s1600/iron%20man%20%20%281%29.png"
     },
-
-{
+	{
       "name_category": "batman",
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvBCWv8SLZShVBdbgs29c6Xi50K3eg_194wBb5FUSdx-_m3Z0AgIBd70bsrMc8jBcikdVCr2ASxjTUU1upRPqKyFYjgf1XhEdwopep5Ig-r5xDx9jyISU3e7HD0xEgo44zzkqmmVtUIvneUa25wU4fCWRI6gu2-COcwC1lCkELGCRVCoRms3kGqfZOkjo/s1600/batman%20%2826%29.jpeg"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBTEEJ-XUtxOLbdvYID_cp6OJgFDczVachmwzpSr9pbXhxFxwFbVYqzrzjqzQO-tCHdpe59BviaTtVe1YDsNONMGAndeVBncg_OWXyZ7l5MoySpflM8OFj0pBY8WbqWki57tnj5Btj-lUgHzNfjeZK9X-MWlsiEG6IK2H_wC6lasGUvQ6rxn26V0buvN0/s1600/batman%20%289%29.jpeg"
     }
-
-
+	
+	
   ],
-  "Wallpaper": 
+  "Wallpaper": [
   
-  [
-{  "id": 1,  "name_category": "spiderman",  "wallpaper_name": "spiderman (1).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (1).jpeg"},
+  {  "id": 1,  "name_category": "spiderman",  "wallpaper_name": "spiderman (1).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (1).jpeg"},
 {  "id": 2,  "name_category": "spiderman",  "wallpaper_name": "spiderman (1).png",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (1).png"},
 {  "id": 3,  "name_category": "spiderman",  "wallpaper_name": "spiderman (10).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (10).jpeg"},
 {  "id": 4,  "name_category": "spiderman",  "wallpaper_name": "spiderman (11).jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "offlineimages/spiderman (11).jpeg"},
@@ -248,9 +245,6 @@
 {  "id": 205,  "name_category": "batman",  "wallpaper_name": "batman%20%2847%29.jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9e-Q5whlWnx37gvdZpmDviwM_ObzDNM4xj6WvTUCq8BfMnHhzz4jggsZtm2rb-t03D6xfyAaX-qP4yYjMP9ylR1eAQJNUobb7NRnVbHQYzR2_f92dm2GKi23ux14VI4uQoZb-34h566foQEz01r40w2Jft2eza4y7IR1ccR5jr6otPymLsIzqcDvgGaM/s1600/batman%20%2847%29.jpeg"},
 {  "id": 206,  "name_category": "batman",  "wallpaper_name": "batman%20%2848%29.jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4yTdGCXUmVcy2QNYAeqNXgXaH2DYOWzJLHQrW1XPeELZeUFnJATVWy-hcWkR9Xn6AsRM6STzpNnQJ39SHk4tdHRfmT8aFE64J9w28V75vQZS1Wg5ILF71E-NDJmL8Vp6eWu71t9gkzoDJn92lLE6czCsyvgTS9NcWXAIWFjutcriVhuRvk1o46X1FAFg/s1600/batman%20%2848%29.jpeg"},
 {  "id": 207,  "name_category": "batman",  "wallpaper_name": "batman%20%2849%29.jpeg",  "wallpaper_type": "IMAGE",  "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdlpHJ6EYTCfYVsS3T4_22mXgK-T35w47NySdKGisrj5TmQ7i-cp9yKPCRTLFnSuh0sERGgNVLsZ7LRTx38Jioci23yC2WB2Cv10W72LuUqviBmCpTVE4wamcbtXo93uhZezZyiruIqcBXY1_Jn3EVrc0fWyMbkYN7YEI8z_hgdoRdqjpDReH8WhWp3oM/s1600/batman%20%2849%29.jpeg"}
- 
-
-]
-
-
+  
+  ]
 }
